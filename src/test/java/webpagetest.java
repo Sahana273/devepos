@@ -14,7 +14,7 @@ public class webpagetest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get("https://raushankumarbaitha.github.io/ex2DE/");
+        driver.get("https://sahana273.github.io/devepos/");
     }
 
     @Test
